@@ -1,3 +1,9 @@
+rabbitmq-server (1.7.0-3.ip1) zelazny; urgency=low
+
+  * First build for IPlinux.
+
+ -- Mikhail Gusarov <dottedmag@dottedmag.net>  Fri, 18 Dec 2009 15:52:13 +0600
+
 rabbitmq-server (1.7.0-3) unstable; urgency=low
 
   * Add missing entries in rabbitmq-server.init
